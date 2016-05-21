@@ -1,0 +1,5 @@
+# Python files to ignore
+*.pyc
+Python/env
+Haskell/dist
+cabal.sandbox.config
